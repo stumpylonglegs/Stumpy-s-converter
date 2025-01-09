@@ -1,0 +1,7 @@
+moviepy
+ffmpeg-python
+pydub
+docx2pdf
+pdf2docx
+pypandoc
+tk
